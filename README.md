@@ -59,6 +59,8 @@ streamlit run app.py
 
 ```
 
+---
+
 🧩 **Code Workflow**
 
 • Streamlit Upload – User uploads document.
@@ -68,6 +70,9 @@ streamlit run app.py
 • Ollama Integration – Each chunk is sent for summarization.
 
 • Output Display – Summarized results shown in Streamlit.
+
+
+---
 
 📑 **Example Output**
 
@@ -80,12 +85,18 @@ Generated Chunks:
 
 *Chunk 3*: Ministry programs on digital literacy...
 
+---
+
 **Summarization Result (via Ollama)**:
 A concise overview of Germany’s public education policies focusing on digital transformation and vocational training.
+
+---
 
 📜 **License**
 
 This project is licensed under the MIT License
+
+---
 
 👨‍💻 **Author**
 
