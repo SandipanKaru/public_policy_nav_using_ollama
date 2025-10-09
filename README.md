@@ -61,43 +61,42 @@ streamlit run app.py
 
 ---
 
-🧩 **Code Workflow**
+## 🧩 **Code Workflow**
 
-• Streamlit Upload – User uploads document.
+• **Streamlit Upload** – User uploads document.
 
-• Chunking Function – Splits text into overlapping chunks.
+• **Chunking Function** – Splits text into overlapping chunks.
 
-• Ollama Integration – Each chunk is sent for summarization.
+• **Ollama Integration** – Each chunk is sent for summarization.
 
-• Output Display – Summarized results shown in Streamlit.
+• **Output Display** – Summarized results shown in Streamlit.
 
-
----
-
-📑 **Example Output**
-
-*Input Document*: Public Policy of Germany
-Generated Chunks:
-
-*Chunk 1*: Overview of education system...
-
-*Chunk 2*: DigitalPakt 2019 with €5 billion...
-
-*Chunk 3*: Ministry programs on digital literacy...
 
 ---
 
-**Summarization Result (via Ollama)**:
+## 📑 **Example Output**
+
+**Input Document**: Public Policy of Germany
+
+**Chunk 1**: Overview of education system...
+
+**Chunk 2**: DigitalPakt 2019 with €5 billion...
+
+**Chunk 3**: Ministry programs on digital literacy...
+
+---
+
+## **Summarization Result (via Ollama)**:
 A concise overview of Germany’s public education policies focusing on digital transformation and vocational training.
 
 ---
 
-📜 **License**
+## 📜 **License**
 
 This project is licensed under the MIT License
 
 ---
 
-👨‍💻 **Author**
+## 👨‍💻 **Author**
 
-*Sandipan Karu*
+### *Sandipan Karu*
